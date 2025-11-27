@@ -1,7 +1,7 @@
 ## --- UNDER CONSTRUCTION --- 
 Hello and welcome to my GitHub repository! Thanks for stopping by. This page is still under construction.
 
-🔨 Stay Tuned!
+🔨 Stay Tuned!<br>
 Feel free to star this page and check back later to see the progress. I promise it will be worth the wait!
 
 📢 Stay Connected!
