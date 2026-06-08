@@ -10,7 +10,7 @@ In the meantime, follow me on my social media for updates and sneak peeks:
 🐦 Twitter(X): @JeremyAcquaah<br>
 💼 LinkedIn: Jeremy Acquaah<br>
 <p dir="auto">📧 <strong>Get in Touch!</strong><br>
-If you have any questions or want to reach out, feel free to email me at <a href="mailto:acquaahjeremy01@gmail.com">acquaahjeremy01@gmail.com</a>.</p>
+
 
 Thank you for your patience. I can't wait to share what I've been working on!
 <!--
