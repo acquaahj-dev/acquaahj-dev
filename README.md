@@ -1,4 +1,4 @@
-<h1 align="center">👩🏽‍💻 Jeremy Acquaah</h1>
+<h1 align="center"> :coding:. Jeremy Acquaah</h1>
 
 <p align="center">
   <strong>AI Engineer </strong><br/>
