@@ -128,7 +128,7 @@ A complete reproducible ML pipeline with experiment tracking, model versioning, 
 
 Conversational chatbot that lets users place, modify, and track food orders. Session-based order tracking with a clean frontend.
 
-🔗 [`AmaChatbot`](https://github.com/MissBaduwa/AmaChatbot)
+<!--🔗 [`AmaChatbot`](https://github.com/MissBaduwa/AmaChatbot) -->
 
 ---
 
@@ -137,7 +137,7 @@ Conversational chatbot that lets users place, modify, and track food orders. Ses
 
 A Convolutional Variational Autoencoder that generates novel Pokémon sprites. Demonstrates latent space interpolation and generative image modelling.
 
-🔗 [`Generative-Pokemon-AI-VAE-`](https://github.com/MissBaduwa/Generative-Pokemon-AI-VAE-)
+<!--🔗 [`Generative-Pokemon-AI-VAE-`](https://github.com/MissBaduwa/Generative-Pokemon-AI-VAE-) -->
 
 ---
 
@@ -146,7 +146,7 @@ A Convolutional Variational Autoencoder that generates novel Pokémon sprites. D
 
 Web app that detects potato leaf diseases from user-uploaded photos. CNN with confidence scoring and a clean drag-drop interface.
 
-🔗 [`potato-disease-classification`](https://github.com/MissBaduwa/potato-disease-classification)
+<!--🔗 [`potato-disease-classification`](https://github.com/MissBaduwa/potato-disease-classification)-->
 
 ---
 
@@ -155,7 +155,7 @@ Web app that detects potato leaf diseases from user-uploaded photos. CNN with co
 
 Hybrid retrieval system built from scratch without LangChain. Combines dense (FAISS) and sparse (BM25) search for electoral data and budget documents.
 
-🔗 [`AI_10012200033`](https://github.com/MissBaduwa/AI_10012200033)
+<!--🔗 [`AI_10012200033`](https://github.com/MissBaduwa/AI_10012200033)-->
 
 ---
 
@@ -164,7 +164,7 @@ Hybrid retrieval system built from scratch without LangChain. Combines dense (FA
 
 Interactive dashboard for POS tagging, grammar error detection, and error pattern visualization. Exports results to CSV.
 
-🔗 [`GrammaScope`](https://github.com/MissBaduwa/GrammaScope)
+<!--🔗 [`GrammaScope`](https://github.com/MissBaduwa/GrammaScope)-->
 
 ---
 ## Publications (under review)
