@@ -119,7 +119,7 @@ An unsupervised USV that detects and collects floating trash.
 
 A complete reproducible ML pipeline with experiment tracking, model versioning, and performance benchmarking. Best accuracy: 85.9%.
 
-🔗 [`MLOps-Sentiment-Analysis-Pipeline`](https://github.com/MissBaduwa/MLOps-Sentiment-Analysis-Pipeline) ⭐ 1
+<!-- 🔗 [`MLOps-Sentiment-Analysis-Pipeline`](https://github.com/MissBaduwa/MLOps-Sentiment-Analysis-Pipeline) ⭐ 1 -->
 
 ---
 
