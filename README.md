@@ -110,7 +110,7 @@ An unsupervised USV that detects and collects floating trash.
 | Detection rate | 96.7% |
 | Collection success | 93.3% |
 
- <! -- [`USV_Autonomy`](https://github.com/MissBaduwa/USV_Autonomy) -->
+ <!-- [`USV_Autonomy`](https://github.com/MissBaduwa/USV_Autonomy) -->
 
 ---
 
