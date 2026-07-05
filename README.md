@@ -47,8 +47,8 @@ Outside of code: basketball, adventure travels, and thinking about how AI can he
 
 ## 🏆 Achievements
 
-- 🎓 **Best Graduating Student — Computational Sciences (2026)**
-- 🥈 **Cyber 9/12 Strategy Challenge (2024)** – 2nd Place + Most Creative Policy Brief
+
+- 🥈 **Achieve by Petra Fintech Hackathon (2025)** – 6th Place / 20 teams 
 - 💧 **Portable Water Filtration System** – Designed for peri-urban communities in Ghana
 - 🧠 **Virtual engineering experience** – Skyscanner, Walmart, Electronic Arts
 
@@ -102,8 +102,7 @@ Outside of code: basketball, adventure travels, and thinking about how AI can he
 ### 1. 🌊 HYDROBOT — Autonomous water debris collector
 *ROS 2 • YOLOv8 • NVIDIA Jetson Nano • TensorRT*
 
-An unsupervised USV that detects and collects floating trash. My final-year research, with two first-author papers under review at IEEE conferences.
-
+An unsupervised USV that detects and collects floating trash. 
 | Metric | Result |
 |--------|--------|
 | mAP@50 | 0.839 (16:1 imbalanced dataset) |
@@ -192,16 +191,16 @@ Interactive dashboard for POS tagging, grammar error detection, and error patter
 
 ## 📈 GitHub Stats
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=MissBaduwa&theme=onedark&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" /> </div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=acquaahj-dev&theme=onedark&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" /> </div>
 
 ---
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=MissBaduwa&theme=github&bg_color=1a1b27&color=ff79c6&line=feb47b&point=ff79c6&area=true&hide_border=true" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=acquaahj-dev&theme=github&bg_color=1a1b27&color=ff79c6&line=feb47b&point=ff79c6&area=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MissBaduwa&label=Profile%20Views&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=acquaahj-dev&label=Profile%20Views&color=blueviolet" alt="Profile views" />
 </p>
 ---
 
